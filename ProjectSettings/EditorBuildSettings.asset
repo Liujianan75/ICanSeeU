@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: aca6148157aaff446954f4f6da4bc890
+  - enabled: 0
+    path: Assets/Scenes/Start.unity
+    guid: 1a22ac4ce1930f14793c719ded4f8107
+  - enabled: 0
+    path: Assets/Scenes/HomeScenes/ChooseLevel.unity
+    guid: 04048ea55a2d88946910f46c2f95ee61
+  - enabled: 0
+    path: Assets/Scenes/HomeScenes/ChooseBird.unity
+    guid: cc3c05d7bf5ec3b458ec65c38fcf5ebb
+  - enabled: 0
+    path: Assets/Scenes/HomeScenes/ScrollBird.unity
+    guid: 3470aca2c892341459a9c21daad69974
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.1.0.unity
+    guid: 6f01defb476e6464fb101490fd05fee9
+  - enabled: 1
+    path: Assets/Scenes/TestHandColorChange.unity
+    guid: 555a990de92b07d4a97bcc1f4d16beeb
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.1.2.unity
+    guid: 913e9a1050ad2f5449fc6929201e72a6
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.2.0.unity
+    guid: 04107c83f0dda7f47b8ab205b47b485b
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.2.1.unity
+    guid: 83512bf72bbb1eb4f8d3bf543b0fe1db
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.2.2.unity
+    guid: f1cbed1b0311dde4dbafe81aeadc05dd
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.3.0.unity
+    guid: 8144296302174c84aa70078aa0c53438
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.3.1.unity
+    guid: d324907abe2727447a154450160a434e
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.3.2.unity
+    guid: 9c30c4ccfe2f35d4bbfb241d7aa9fb23
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.3.3.unity
+    guid: a3e44ad259ff0c54db8baa6622039a06
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.4.1.unity
+    guid: 455609c177359b04a9f9704f60460ab0
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.4.2.unity
+    guid: 7e97610f5e888ce4387dd94f66307668
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.4.3.unity
+    guid: 7c8df5a631d12e349a0e944d3bbed1e3
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.5.1.unity
+    guid: a8dad27c4ca939e40a04b68e3f22c005
+  - enabled: 0
+    path: Assets/Scenes/Bird2/Bird2.5.2.unity
+    guid: 710eb7c56664c3b4ca071856189381a9
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.1.0NoGuidance.unity
+    guid: 057677d3f727af04ebdfdf6e7f1c1d52
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.1.1NoGuidance.unity
+    guid: c9f452ebfe4f84e499cd4699d84736a3
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.1.2NoGuidance.unity
+    guid: ffdcdbc175a0c0245908868bfe0756f3
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.2.0NoGuidance.unity
+    guid: f01ddd146643bee4d8170c344bc573d2
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.2.1NoGuidance.unity
+    guid: fcab26fa4ae7c5b4e93283eb55084fff
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.2.2NoGuidance.unity
+    guid: b97e1a0351d14724b9e303c4ab0afc26
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.3.0NoGuidance.unity
+    guid: 075bbb7709b911849a64a8f0ae999d15
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.3.1NoGuidance.unity
+    guid: a212ab050dbf48742a9a6f5c751c1c01
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.3.2NoGuidance.unity
+    guid: b5f671deb7f90e2418f6ce3992657ef7
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.3.3NoGuidance.unity
+    guid: 37026bc2979c6f545b9da459c9708be0
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.4.1NoGuidance.unity
+    guid: 5d561af5861baf442ab0d5a5503a83f9
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.4.2NoGuidance.unity
+    guid: 9699756de0c2d6148905d5f0e5a24af6
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.4.3NoGuidance.unity
+    guid: acd8ae7ae39115841977de9d1fb4a5fe
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.5.1NoGuidance.unity
+    guid: 89975317d0e1ef64c95c81d76da90067
+  - enabled: 0
+    path: Assets/Scenes/Bird2NoGuidance/Bird2.5.2NoGuidance.unity
+    guid: b7f7230418252fd4f982b6b2ca6e4f45
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.1.0NoGuidance.unity
+    guid: 2978758632e3b2b409179307b619b1d9
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.1.1NoGuidance.unity
+    guid: 8a9f3bbca9a9b714199afdec2d9eb431
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.2.0NoGuidance.unity
+    guid: dbdabf4192101a74ea607252fa5a2b9a
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.2.1NoGuidance.unity
+    guid: 12cada6bfac72d341827f3632ea0360a
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.2.2NoGuidance.unity
+    guid: e1e6f5a4a3f4e8f4ba60b4a460bbcddb
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.3.0NoGuidance.unity
+    guid: a5d231dfaa973cb4cbd53adb31525e71
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.3.1NoGuidance.unity
+    guid: 784ade5be8997a34e982123106c391e4
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.3.2NoGuidance.unity
+    guid: 25ab27aff27fea543b128bd02c351d82
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.4.1NoGuidance.unity
+    guid: d4731e02b0611be48a251d504a6e8607
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.4.2NoGuidance.unity
+    guid: cbf4b6378afdc994b917bb4d9b6353c6
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.4.3NoGuidance.unity
+    guid: a9e7e7bd74aaef94fa2f1e8765e527d3
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.5.1NoGuidance.unity
+    guid: 31262958984e26740b50f6765d0f1e34
+  - enabled: 0
+    path: Assets/Scenes/Bird3NoGuidance/Bird3.5.2NoGuidance.unity
+    guid: a2c11e69ce1c26f4c9cce8617007d417
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.1.0NoGuidance.unity
+    guid: 5e02b1af41699dc40910d4403443adef
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.1.1NoGuidance.unity
+    guid: 03e0298e4b38dd34c921ca9b83c2deb9
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.2.0NoGuidance.unity
+    guid: 60735a4f40fe3a54a9449781adb17c31
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.2.1NoGuidance.unity
+    guid: 51adcb25c8e4d2249a3fb12a78f925cf
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.3.0NoGuidance.unity
+    guid: 48ba487cf98246b4fb72f4bfb2d8d4e7
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.3.1NoGuidance.unity
+    guid: 551fbf033af27cc449671581cf4020e6
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.3.2NoGuidance.unity
+    guid: b3b3cd417dc885641b2672fe916c4d79
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.3.3NoGuidance.unity
+    guid: 4f73835f9da3ea34fa22c5cb8cb2685e
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.4.1NoGuidance.unity
+    guid: b4e11c04fc1c3ad408eea6f36b915709
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.4.2NoGuidance.unity
+    guid: d1c510b1120e4fd4cb421736f9e52acb
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.4.3NoGuidance.unity
+    guid: 77a3874ff4d6a7c4189064b0780336ac
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.5.1NoGuidance.unity
+    guid: 5b873436bd92b894ea87ff8e899c77aa
+  - enabled: 0
+    path: Assets/Scenes/Bird9NoGuidance/Bird9.5.2NoGuidance.unity
+    guid: 375971e50ff4cb24e96e2d827f4fd81f
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5fb0d39c0567508458d1571dd6854d3a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d3c000fa40d54e44a51c79fe302d54b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fe3fa89fce287fd4b8e94f002b87b9e3, type: 2}
